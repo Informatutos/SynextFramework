@@ -1,2 +1,2 @@
 # SynextFramework
-Synext Framework Core Code 
+simple fast php home framework :) !
