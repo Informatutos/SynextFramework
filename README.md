@@ -1,8 +1,8 @@
 # Synext-framework
 
-[![Latest Version on Packagist][ico-version]][https://packagist.org/packages/informatutos/synext-framework]
+[![Latest Version on Packagist][ico-version]](https://packagist.org/packages/informatutos/synext-framework)
 [![Software License][ico-license]](LICENSE.md)
-[![Coverage Status][ico-scrutinizer]][https://scrutinizer-ci.com/g/Informatutos/synext-framework/]
+[![Coverage Status][ico-scrutinizer]](https://scrutinizer-ci.com/g/Informatutos/synext-framework/)
 [![Quality Score][ico-code-quality]][link-code-quality]
 [![Total Downloads][ico-downloads]][link-downloads]
 
