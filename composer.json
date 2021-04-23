@@ -1,10 +1,10 @@
 {
     "name": "informatutos/synext-framework",
     "type": "library",
-    "description": ":package_description",
+    "description": "The Synext Framework Core Code",
     "keywords": [
-        ":vendor",
-        ":package_name"
+        "informatutos",
+        "synext-framework"
     ],
     "homepage": "https://github.com/Informatutos/synext-framework",
     "license": "MIT",
