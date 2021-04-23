@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Synext": "src/Synext/"
+            "Synext\\": "src/Synext/"
         }
     },
     "autoload-dev": {
