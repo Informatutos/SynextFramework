@@ -1,0 +1,12 @@
+->add
+->post
+->get
+->put
+->any
+->delete
+->mount( {path}, { object}, { route options })
+->length() returns length of routes.
+->export() returns  constructor via __set_state static method in php code.
+->dispatch({path}) dispatch path and return matched route.
+->getRoutes() returns routes array.
+::__set_state({object member array}) constructs and returns a  object.
